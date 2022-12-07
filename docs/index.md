@@ -58,11 +58,8 @@ effective technical expertise.
 
 -  Developed solid working knowledge of engineering, design, and
    architecture as the Lead Software Developer on a team of 3.
--  Helped a local company develop a desktop application
-   (CSV Report Parser) that rapidly determines which items are
-   “hot” items and uses this information to estimate future sale margins.
--  Led a group of 3 in the CIT/CSE Fall Hack-a-Thon to help the community
-   with their software needs through a 24-hour coding challenge.
+-  Helped a local company develop a desktop application (CSV Report Parser) that rapidly determines which items are “hot” items and uses this information to estimate future sale margins.
+-  Led a group of 3 in the CIT/CSE Fall Hack-a-Thon to help the community with their software needs through a 24-hour coding challenge.
 
 ## Certifications
 
