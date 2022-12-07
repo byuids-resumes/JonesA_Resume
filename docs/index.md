@@ -5,85 +5,71 @@ title: Aaron Jones' Resume
 
 # Aaron Jones
 
+## Computer Science
+
 Versatile Computer Engineer conversant in all aspects of IT business
 operation and development. Eager to grow alongside companies' IT needs
 and technical arsenals. Committed to maintaining maximum uptimes and
 optimal operational efficiencies through budget-friendly oversight and
 effective technical expertise.
 
+## Contact
+
 <div id="webaddress">
-<a href="jonesl7acj@gmail.com">jonesl7acj@gmail.com</a>
+<a href="jonesl7acj@gmail.com">E-mail</a>
 | <a href="https://zety.com/profile
 /eportfolio/361">My Website Profile Page</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
-
 ## Education
 
-`2025-2027`
-**LDS Business College**, Salt Lake City, UT
-
--  Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+**Bachelor of Science: Computer Science**
 **Brigham Young University - Idaho**, Rexburg, ID
+`Expected 2023`
 
--  4.0 Major GPA
+-  The Society of Computing Machinery (ACM)
+-  The Society of Women Engineers (SWE)
+-  The Society of Artificial Intelligence (SAI)
 
-## Related Experience
+## Skills
 
-### Internships
+-  C++
+-  Python
+-  PHP, HTML5, CSS
+-  JavaScript
+-  SQL
+-  Java
+-  Problem Solving
 
-`January 2028 - June 2028`
-**Pacific Northwest National Lab**, Richland, WA
+## Professional Experience
 
--  Worked on novel methods for soil sampling to reduce laboratory measurements
--  Used R and Visual Sample Plan to establish new sampling algorithms
--  Published a journal article in Environmental Quality.
+`October 2020 - August 2021`
+**Contractor**
+**Techni-Core Corporation**, Huntsville, AL
 
-### Data Science Lead
+-  Implemented changes requested by designers, owners, or inspectors to
+   conform to specifications or updated demands
+-  Provided consistent, regular project updates to crew and clients
+-  Developed 3 effective improvement plans in 2020
 
-`April 2027 - June 2027`
-**Westmark Credit Union**, Consultant
+## Accomplishments
 
--  Developed a predicted model to support Westmark in custumer conversion from dealer loans.
--  Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging.
--  Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+-  Developed solid working knowledge of engineering, design, and
+   architecture as the Lead Software Developer on a team of 3.
+-  Helped a local company develop a desktop application
+   (CSV Report Parser) that rapidly determines which items are
+   “hot” items and uses this information to estimate future sale margins.
+-  Led a group of 3 in the CIT/CSE Fall Hack-a-Thon to help the community
+   with their software needs through a 24-hour coding challenge.
 
-`September 2027 - April 2028`
-**Good2Go**, Consultant
+## Certifications
 
--  Built product ordering and supply predictive algorithms for chips and beverages categories
--  Established standardized SQL calls and connections for PowerBI dashboards
--  Found over $35k in waste and saved over 200 annual hours of store quality control work
+`2019-11`
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-**Imagine Learning**
-
--  Build web scraping tool to find and format school district technology data.
--  Used R and the Rvest package to parse and format web data.
--  Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-**Pinnacle Management Group**,
-
--  Proof of concept development of dashboards using client's corporate data.
--  Built and documented differences of PowerBI, Google Dashoards, and Tableau.
--  Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-## Service and Work History
-
-`2025-2027`
-**Math Tutor**, LDSBC
-
-`2023-2025`
-**Service Missionary**, South Africa
+-  Security Clearance
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
