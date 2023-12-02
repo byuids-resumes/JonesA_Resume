@@ -69,4 +69,4 @@ effective technical expertise.
 
 <!-- ### Footer
 
-Last updated: December 2022 -->
+Last updated: December 2023 -->
